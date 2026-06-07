@@ -2,11 +2,11 @@
 
 A collection of Natural Language Processing (NLP) assignments focused on text processing, analysis, and fake news detection concepts.
 
-## 📋 Project Overview
+##  Project Overview
 
 This project contains hands-on NLP assignments that cover fundamental text processing techniques used in fake news detection pipelines. The notebooks demonstrate progressively advanced NLP concepts from basic string manipulation to machine learning-based text representations.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Fake_news_detection/
@@ -18,7 +18,7 @@ Fake_news_detection/
 └── Fake News Detection (1).pdf            # Assignment reference document
 ```
 
-## 🧠 Assignment 1 — Topics Covered
+## Assignment 1 — Topics Covered
 
 | # | Problem | Concepts |
 |---|---------|----------|
@@ -38,7 +38,7 @@ Fake_news_detection/
 | 14 | Bag-of-Words | scikit-learn `CountVectorizer` |
 | 15 | TF-IDF Keywords | scikit-learn `TfidfVectorizer` |
 
-## 🛠️ Technologies & Libraries
+##  Technologies & Libraries
 
 - **Python 3.x**
 - **NLTK** — Tokenization, stemming, sentence splitting
@@ -47,36 +47,7 @@ Fake_news_detection/
 - **regex (re)** — Pattern matching and text cleaning
 - **collections** — Counter for frequency analysis
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-```bash
-pip install nltk spacy scikit-learn numpy
-python -m spacy download en_core_web_sm
-```
-
-### Running the Notebooks
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Fake_news_detection.git
-   cd Fake_news_detection
-   ```
-
-2. Install dependencies (see above)
-
-3. Open in Jupyter Notebook or Google Colab:
-   ```bash
-   jupyter notebook
-   ```
-
-4. Open `assignment1_fake_news_detection.ipynb` and run all cells
-
-## 📄 License
-
-This project is for educational purposes as part of an NLP course.
 
 ## 👤 Author
 
-- **Your Name** — [GitHub Profile](https://github.com/YOUR_USERNAME)
+- **Harshit Pandey** — [GitHub Profile](https://github.com/harshitpandey-7)
